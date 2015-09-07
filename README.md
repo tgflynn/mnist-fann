@@ -13,6 +13,8 @@ Dependencies:
 
 Files:
 
+  typescript - Example training output with classificaation error on test set
+
   train2.c - The trainer
 
     Compilation: 
