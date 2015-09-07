@@ -14,7 +14,7 @@ Dependencies:
 
 Files:
 
-  typescript - Example training output with classificaation error on test set
+  typescript - Example training output with classification error on test set
 
   train2.c - The trainer
 
