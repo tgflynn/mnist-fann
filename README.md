@@ -8,6 +8,7 @@ Platform: Ubuntu 14.04
 Dependencies:
 
   sudo apt-get install gcc
+
   sudo apt-get install libfann2 libfann-dbg
   
 
